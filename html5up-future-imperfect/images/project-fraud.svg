@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Fraud detection visual</title>
+  <desc id="desc">Clean analytical visual with metrics cards and trend lines.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1324"/>
+      <stop offset="100%" stop-color="#113a5f"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#34d399" stop-opacity="0.05"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="675" fill="url(#bg)"/>
+  <circle cx="1080" cy="100" r="150" fill="#22d3ee" opacity="0.08"/>
+  <circle cx="120" cy="620" r="170" fill="#34d399" opacity="0.07"/>
+
+  <rect x="76" y="72" width="1048" height="531" rx="28" fill="#ffffff" opacity="0.96"/>
+  <rect x="100" y="96" width="1000" height="483" rx="22" fill="#f8fafc"/>
+
+  <rect x="132" y="132" width="220" height="104" rx="16" fill="#0f172a"/>
+  <rect x="372" y="132" width="220" height="104" rx="16" fill="#dcfce7"/>
+  <rect x="612" y="132" width="220" height="104" rx="16" fill="#dbeafe"/>
+  <rect x="852" y="132" width="216" height="104" rx="16" fill="#fee2e2"/>
+
+  <rect x="132" y="266" width="660" height="276" rx="18" fill="#ffffff"/>
+  <rect x="816" y="266" width="252" height="276" rx="18" fill="#ffffff"/>
+
+  <rect x="156" y="292" width="610" height="42" rx="10" fill="url(#glow)"/>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M168 486l92-86 94 40 92-122 96 60 116-106" stroke="#0ea5e9" stroke-width="8"/>
+    <path d="M168 508l96-66 96 52 90-70 100 44 108-76" stroke="#10b981" stroke-width="7" opacity="0.9"/>
+  </g>
+  <g fill="#0f172a">
+    <circle cx="168" cy="486" r="7"/>
+    <circle cx="260" cy="400" r="7"/>
+    <circle cx="354" cy="440" r="7"/>
+    <circle cx="446" cy="318" r="7"/>
+    <circle cx="542" cy="378" r="7"/>
+    <circle cx="658" cy="272" r="7"/>
+  </g>
+
+  <rect x="840" y="304" width="206" height="18" rx="9" fill="#dbeafe"/>
+  <rect x="840" y="338" width="184" height="18" rx="9" fill="#bfdbfe"/>
+  <rect x="840" y="372" width="156" height="18" rx="9" fill="#93c5fd"/>
+  <rect x="840" y="406" width="198" height="18" rx="9" fill="#60a5fa"/>
+  <rect x="840" y="440" width="132" height="18" rx="9" fill="#3b82f6"/>
+  <rect x="840" y="474" width="168" height="18" rx="9" fill="#2563eb"/>
+</svg>

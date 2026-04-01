@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-labelledby="title desc">
+  <title id="title">Avatar data science</title>
+  <desc id="desc">Avatar minimaliste avec motif analytique.</desc>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1f8a70"/>
+    </linearGradient>
+  </defs>
+  <rect width="240" height="240" rx="36" fill="url(#g)"/>
+  <circle cx="120" cy="92" r="38" fill="#ecfeff"/>
+  <path d="M62 188c14-40 46-64 58-64s44 24 58 64" fill="#ecfeff"/>
+  <path d="M44 170c22-30 42-42 76-42 28 0 54 12 76 42" fill="none" stroke="#6ee7b7" stroke-width="6" opacity="0.7"/>
+  <g fill="#6ee7b7">
+    <circle cx="52" cy="58" r="6"/>
+    <circle cx="74" cy="42" r="6"/>
+    <circle cx="96" cy="62" r="6"/>
+  </g>
+</svg>
